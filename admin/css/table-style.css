@@ -1,0 +1,38 @@
+table{
+	width: 95%;
+	border-width: 0;
+	margin-top: 20px;
+	border: none;
+	border-collapse: collapse;
+	border-radius: 1em;
+	overflow: hidden;
+	margin-left: 10px;
+}
+
+thead{
+	background: #EAEDF3;
+}
+
+th{
+	font-size: 0.8rem;
+	text-transform: uppercase;
+	padding: 20px 10px;
+	font-weight: 500;
+	color: #909296;
+	text-align: center;
+}
+
+th:hover{
+	cursor: pointer;
+}
+
+tbody{
+	background: #fff;
+	font-size: 0.8rem;
+}
+
+td{
+	padding: 20px 10px;
+	color: #909296;
+	text-align: center;
+}

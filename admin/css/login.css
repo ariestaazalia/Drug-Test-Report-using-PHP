@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #f6f5f7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+	margin: -10px 0 50px;
+}
+
+h1 {
+	font-weight: bold;
+	margin: 0;
+}
+
+button {
+	border-radius: 20px;
+	border: 1px solid #91baad;
+	background-color: #134784;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+button:hover{
+	background-color: #2058b0 ;	
+	cursor: pointer;
+}
+
+form {
+	background-color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 50px;
+	height: 100%;
+	border-radius: 5px;
+}
+
+form img{
+	width: 150px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+input[type="text"],
+input[type="password"] {
+	background-color: #eee;
+	border-radius: 5px; 
+	border-style: none;
+	padding: 12px 15px;
+	margin: 6px 0;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	outline: none;
+	border-bottom: 1px solid #134784;
+	transition: all 0.5s ease-in;
+
+}
+
+input[type="checkbox"]{
+	margin-left: 20px;
+}
+
+input:focus{
+	border-bottom: 5px solid #134784;
+}
+
+.kick{
+	display: inline-block;
+	font-size: 14px;
+}
+
+.container {
+	background-color: #134784;
+	border-radius: 20px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+				0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	width: 350px;
+	max-width: 400px;
+	height: 500px;
+}
+
+.error{
+	color: #B00020;
+	font-weight: 500;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 10px;
+}

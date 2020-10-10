@@ -1,0 +1,349 @@
+[04-Jun-2020 19:00:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[05-Jun-2020 02:00:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/login.php on line 15
+[04-Jun-2020 19:00:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[04-Jun-2020 19:25:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[04-Jun-2020 19:25:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 02:25:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/login.php on line 15
+[04-Jun-2020 19:25:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[04-Jun-2020 19:26:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 02:28:20 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/login.php on line 15
+[04-Jun-2020 19:28:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[05-Jun-2020 08:48:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/login.php on line 15
+[05-Jun-2020 01:48:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/index.php on line 3
+[05-Jun-2020 08:49:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/login.php on line 15
+[05-Jun-2020 08:50:31 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:50:41 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:50:43 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:30 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 08:52:33 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:35 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:41 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:43 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:46 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 08:52:51 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:53 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 08:52:55 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/skhpn.php on line 3
+[05-Jun-2020 08:52:57 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:52:57 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/laporan.php on line 3
+[05-Jun-2020 08:53:00 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:53:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/skhpn.php on line 3
+[05-Jun-2020 08:53:28 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:53:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/user-profile.php on line 3
+[05-Jun-2020 08:54:04 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:05 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/print-skhpn.php on line 6
+[05-Jun-2020 08:54:05 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5)' in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(600): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 08:54:06 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:12 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:14 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:20 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:21 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:23 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:25 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:27 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:54:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/laporan.php on line 3
+[05-Jun-2020 08:54:55 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:55:10 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:55:12 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/print-skhpn.php on line 6
+[05-Jun-2020 08:55:13 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:55:17 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5)' in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(600): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 08:55:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/print-skhpn.php on line 6
+[05-Jun-2020 08:55:21 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5)' in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(600): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 08:55:23 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:55:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 08:55:26 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:5
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(5): PDO->__construct('mysql:host=loca...', 'root')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 5
+[05-Jun-2020 08:55:27 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:56:05 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:56:06 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 08:56:23 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:56:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 08:56:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:5
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(5): PDO->__construct('mysql:host=loca...', 'root')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 5
+[05-Jun-2020 08:56:43 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:56:43 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:7
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(7): PDO->__construct('mysql:host=loca...', 'root')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 7
+[05-Jun-2020 08:58:16 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:58:16 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'bnny3498_bnn'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:7
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(7): PDO->__construct('mysql:host=loca...', 'bnny3498_bnn')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 7
+[05-Jun-2020 08:59:19 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:59:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 08:59:19 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'bnny3498_bnn'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:5
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(5): PDO->__construct('mysql:host=loca...', 'bnny3498_bnn')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 5
+[05-Jun-2020 08:59:21 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:59:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 08:59:21 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'bnny3498_bnn'@'localhost' (using password: NO)' in /home/bnny3498/public_html/admin/generatereport.php:5
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(5): PDO->__construct('mysql:host=loca...', 'bnny3498_bnn')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 5
+[05-Jun-2020 08:59:45 Asia/Jakarta] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2020 08:59:46 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:00:40 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:00:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:00:40 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:00:40 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:00:41 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:00:55 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 09:00:56 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:01:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 09:01:45 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 02:01:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:01:59 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:02:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 02:02:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:02:17 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:02:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 02:02:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:02:42 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:02:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 02:02:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:02:59 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 02:02:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:03:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1043
+[05-Jun-2020 09:03:08 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:271
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(601): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 271
+[05-Jun-2020 09:03:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:04:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:04:22 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:04:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1053): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[05-Jun-2020 09:04:42 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:05:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/generatereport.php on line 4
+[05-Jun-2020 02:05:32 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:05:32 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/bnny3498/public_html/config/conn.php:5) in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1053): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(68): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[05-Jun-2020 02:06:16 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:06:46 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 02:06:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/edit-userprofile.php on line 3
+[05-Jun-2020 02:07:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/add-user.php on line 3
+[05-Jun-2020 02:08:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/add-user.php on line 3
+[05-Jun-2020 02:08:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/edit-skhpn.php on line 4
+[05-Jun-2020 02:08:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bnny3498/public_html/admin/delete-skhpn.php on line 3
+[05-Jun-2020 19:06:22 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 12:06:49 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 19:34:53 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 12:41:41 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 12:41:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(69): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[05-Jun-2020 12:42:35 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[05-Jun-2020 12:42:41 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 02:34:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[13-Jun-2020 19:36:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/bnny3498/public_html/admin/generatereport.php:6
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(6): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 6
+[13-Jun-2020 19:36:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/bnny3498/public_html/admin/generatereport.php:6
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(6): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 6
+[13-Jun-2020 19:36:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/bnny3498/public_html/admin/generatereport.php:6
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(6): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 6
+[13-Jun-2020 19:37:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/bnny3498/public_html/admin/generatereport.php:6
+Stack trace:
+#0 /home/bnny3498/public_html/admin/generatereport.php(6): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/bnny3498/public_html/admin/generatereport.php on line 6
+[13-Jun-2020 19:51:17 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 02:53:46 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 02:53:46 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(693): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[14-Jun-2020 02:53:52 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 02:53:52 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(693): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[14-Jun-2020 02:54:43 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 02:54:43 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/print-skhpn.php(693): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[14-Jun-2020 02:55:37 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 03:17:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 03:25:53 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 03:26:02 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 03:51:13 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jun-2020 03:51:20 Asia/Jakarta] PHP Warning:  file_put_contents(./img/uploads/): failed to open stream: Is a directory in /home/bnny3498/public_html/admin/print-skhpn.php on line 30
+[14-Jun-2020 16:24:36 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[17-Jun-2020 03:48:11 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[16-Jun-2020 20:49:21 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[17-Jun-2020 03:57:13 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[17-Jun-2020 21:41:11 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[17-Jun-2020 22:01:23 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[18-Jun-2020 02:59:42 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[18-Jun-2020 10:31:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[18-Jun-2020 03:33:58 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[24-Jun-2020 08:01:42 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[24-Jun-2020 08:01:43 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[24-Jun-2020 15:08:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[24-Jun-2020 15:08:49 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:35:51 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:41:41 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:43:00 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:44:10 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:44:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:46:27 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:49:11 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[25-Jun-2020 21:51:50 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 01:29:15 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[01-Jul-2020 18:30:31 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 01:31:32 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 11:29:16 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 11:30:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 11:35:01 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[02-Jul-2020 11:35:40 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 13:41:54 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 06:43:07 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 22:08:23 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 22:08:24 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 22:09:57 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 22:13:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[06-Jul-2020 15:13:41 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[12-Jul-2020 17:06:04 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[12-Jul-2020 17:06:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/bnny3498/public_html/admin/pdf/fpdf.php:272
+Stack trace:
+#0 /home/bnny3498/public_html/admin/pdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/bnny3498/public_html/admin/pdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/bnny3498/public_html/admin/generatereport.php(74): FPDF->Output()
+#3 {main}
+  thrown in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 272
+[13-Jul-2020 21:56:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[13-Jul-2020 14:57:31 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[13-Jul-2020 15:06:14 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[13-Jul-2020 23:08:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[13-Jul-2020 16:09:45 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jul-2020 09:29:34 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044
+[14-Jul-2020 02:30:39 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/bnny3498/public_html/admin/pdf/fpdf.php on line 1044

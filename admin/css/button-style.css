@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+.btn{
+	position: relative;
+	line-height: 24px;
+	cursor: pointer;
+	background: transparent;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    transition: .2s all;
+    outline: none;
+}
+
+.btn .fa{
+	outline: none;
+	border: none;
+}
+
+.btn:hover, .fa:hover{
+	filter: saturate(2px);
+	transform: scale(.95);
+	border: 1px dashed;
+	outline: none;
+}
+
+.btn-edit{
+	color: green;
+	border: 1px solid green;
+	width: 60px;
+	height: 40px;
+	outline: none;
+}
+
+.btn-edit-profile{
+	color: green;
+	border: 1px solid green;
+	width: 90px;
+	height: 50px;
+	outline: none;
+}
+
+.btn-delete{
+	color: red;
+	border: 1px solid red;
+	width: 60px;
+	height: 40px;
+	outline: none;
+}
+
+.btn-print{
+	color: blue;
+	border: 1px solid blue;
+	width: 60px;
+	height: 40px;
+	outline: none;
+}
+
+.btn-add{
+	color: #8499B1;
+	border: 1px solid #8499B1;
+	font-size: 16px;
+	padding: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	outline: none;
+}
+
+.btn-cancel{
+	color: red;
+	margin: 0 auto;
+	border: 1px solid red;
+	width: 80px;
+	height: 40px;
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+	outline: none;
+}
+
+.btn-submit{
+	color: #134784;
+	margin: 0 auto;
+	width: 80px;
+	height: 40px;
+	border: 1px solid #134784;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 10px;
+	outline: none;
+}
+
+/*Text Paragraph*/
+
+.tx{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	position: relative;
+	padding: 8px;
+	margin-top: 15px;
+}
+
+.tx-wait{
+	background: #FFF09D;
+	border-radius: 10px;
+}
+
+.tx-fin{
+	background: #ACFEFF;
+	border-radius: 10px;
+}
+
+/*Search Button*/
+
+#submit{
+	outline: none;
+}
+
+.fa-search:hover{
+	cursor: pointer;
+	outline: none;
+	box-shadow: none;
+}

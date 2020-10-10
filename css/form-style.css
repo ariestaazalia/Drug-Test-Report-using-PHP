@@ -1,0 +1,164 @@
+
+.form-style{
+	max-width: 750px;
+	padding: 10px 20px;
+	background: #f4f7f8;
+	margin: 10px auto;
+	padding: 20px;
+	border-radius: 8px;
+}
+
+.form-style fieldset{
+	border: none;
+}
+
+.form-style legend {
+	font-size: 1.4em;
+	margin-bottom: 10px;
+}
+
+.form-style label {
+	margin-top: 15px;
+  	margin-bottom: 5px;
+}
+
+.form-style .input{
+	float: left; 
+	width: 100%; 
+	position: relative;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.form-style .upload{
+	float: left; 
+	width: 45%; 
+	position: relative;
+	margin-bottom: 10px;
+}
+
+:focus{
+	outline: none;
+}
+
+.form-style input[type="text"],
+.form-style input[type="date"],
+.form-style input[type="time"],
+.form-style input[type="file"]{
+	background: #f4f7f8;
+	color: #333;
+	font-size: 15px;
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 5px;
+	width: 100%; 
+	box-sizing: border-box; 
+	letter-spacing: 1px;
+}
+
+.form-style input[type="file"]:hover{
+	cursor: pointer;
+}
+
+.form-style input[type="file"]::-webkit-file-upload-button {
+    -webkit-appearance: none;
+    width: 0;
+    height: 0;
+    padding: 0;
+}
+
+.form-style #checklist{
+	font-size: 14px;
+}
+
+.form-style input[type="submit"],
+.form-style input[type="button"]
+{
+	position: relative;
+	display: block;
+	padding: 19px 39px 18px 39px;
+	color: #FFF;
+	margin: 0 auto;
+	background: #134784;
+	font-size: 18px;
+	text-align: center;
+	font-style: normal;
+	width: 40%;
+	border: 0px;
+	border-width: 1px 1px 3px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	outline: none;
+}
+
+.form-style input[type="submit"]:hover,
+.form-style input[type="button"]:hover
+{
+	background-color: #002a69;
+	cursor: pointer;
+}
+
+
+/*Radio Button*/
+
+.form-style .radio_btn{
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	margin-right: 10px;
+	margin: 10px;
+}
+
+.form-style .radio_btn-input{
+	opacity: 0;
+}
+
+.form-style .radio_btn-circle{
+	width: 1.25em;
+	height: 1.25em;
+	border: 2px solid #AAAAAA;
+	border-radius: 50%;
+	margin-right: 10px;
+	box-sizing: border-box;
+	padding: 2px;
+}
+
+.form-style .radio_btn-circle::after{
+	content: "";
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: #134784;
+	border-radius: 50%;
+	transform: scale(0);
+	transition: transform 0.15s;
+}
+
+.form-style .radio_btn-input:checked + .radio_btn-circle::after{
+	transform: scale(1);
+}
+
+/*Effect*/
+
+.effect{
+  border: 0;  
+  border-bottom: 1px solid #ccc;
+  margin-left: 5px;
+}
+
+.effect ~ .focus-border{
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  width: 0; 
+  height: 2px; 
+  background-color: #3399FF; 
+  transition: 0.4s;
+  margin-left: 5px;
+}
+
+.effect:focus ~ .focus-border{
+  width: 100%; 
+  transition: 0.4s;
+}
